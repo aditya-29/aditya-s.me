@@ -1,0 +1,606 @@
+[
+  [
+    "Andrej Karpathy",
+    "https://karpathy.ai/"
+  ],
+  [
+    "Andreas Geiger",
+    "https://www.cvlibs.net/"
+  ],
+  [
+    "Jon Barron",
+    "https://jonbarron.info/"
+  ],
+  [
+    "Pieter Abbeel",
+    "https://www2.eecs.berkeley.edu/Faculty/Homepages/abbeel.html"
+  ],
+  [
+    "Sergey Levine",
+    "https://www.sergeylevine.com/"
+  ],
+  [
+    "Chelsea Finn",
+    "https://ai.stanford.edu/~cbfinn/"
+  ],
+  [
+    "Jure Leskovec",
+    "https://cs.stanford.edu/people/jure/"
+  ],
+  [
+    "Percy Liang",
+    "https://cs.stanford.edu/~pliang/"
+  ],
+  [
+    "Christopher Manning",
+    "https://nlp.stanford.edu/~manning/"
+  ],
+  [
+    "Dan Jurafsky",
+    "https://web.stanford.edu/~jurafsky/"
+  ],
+  [
+    "Fei-Fei Li",
+    "https://profiles.stanford.edu/fei-fei-li"
+  ],
+  [
+    "Jitendra Malik",
+    "https://people.eecs.berkeley.edu/~malik/"
+  ],
+  [
+    "Alexei Efros",
+    "https://www.eecs.berkeley.edu/~efros/"
+  ],
+  [
+    "Trevor Darrell",
+    "https://people.eecs.berkeley.edu/~trevor/"
+  ],
+  [
+    "Dawn Song",
+    "https://dawnsong.io/"
+  ],
+  [
+    "Michael Jordan",
+    "https://people.eecs.berkeley.edu/~jordan/"
+  ],
+  [
+    "Peter Bartlett",
+    "https://www.stat.berkeley.edu/~bartlett/"
+  ],
+  [
+    "Martin Wainwright",
+    "https://wainwright.mit.edu/"
+  ],
+  [
+    "Stuart Russell",
+    "https://people.eecs.berkeley.edu/~russell/"
+  ],
+  [
+    "Anca Dragan",
+    "https://people.eecs.berkeley.edu/~anca/"
+  ],
+  [
+    "Dorsa Sadigh",
+    "https://dorsa.fyi/"
+  ],
+  [
+    "Emma Brunskill",
+    "https://cs.stanford.edu/people/ebrun/"
+  ],
+  [
+    "Tengyu Ma",
+    "https://ai.stanford.edu/~tengyuma/"
+  ],
+  [
+    "Stefano Ermon",
+    "https://cs.stanford.edu/~ermon/"
+  ],
+  [
+    "Sharon Li",
+    "https://pages.cs.wisc.edu/~sharonli/"
+  ],
+  [
+    "Ludwig Schmidt",
+    "https://people.csail.mit.edu/ludwigs/"
+  ],
+  [
+    "Aleksander Madry",
+    "https://madry.mit.edu/"
+  ],
+  [
+    "Aleksander Mądry",
+    "https://people.csail.mit.edu/madry/"
+  ],
+  [
+    "Aleksandra Korolova",
+    "https://www.cs.princeton.edu/~korolova/"
+  ],
+  [
+    "Zico Kolter",
+    "https://zicokolter.com/"
+  ],
+  [
+    "Ameet Talwalkar",
+    "https://www.cs.cmu.edu/~atalwalk/"
+  ],
+  [
+    "Zachary Lipton",
+    "https://www.zacharylipton.com/"
+  ],
+  [
+    "Graham Neubig",
+    "https://www.phontron.com/"
+  ],
+  [
+    "Emma Strubell",
+    "https://strubell.github.io/"
+  ],
+  [
+    "Maarten Sap",
+    "https://maartensap.com/"
+  ],
+  [
+    "Aditi Raghunathan",
+    "https://www.cs.cmu.edu/~aditirag/"
+  ],
+  [
+    "Deepak Pathak",
+    "https://www.cs.cmu.edu/~dpathak/"
+  ],
+  [
+    "Abhinav Gupta",
+    "https://www.cs.cmu.edu/~abhinavg/"
+  ],
+  [
+    "Saurabh Gupta",
+    "https://saurabhg.web.illinois.edu/"
+  ],
+  [
+    "Sanja Fidler",
+    "https://www.cs.toronto.edu/~fidler/"
+  ],
+  [
+    "Raquel Urtasun",
+    "https://www.cs.toronto.edu/~urtasun/"
+  ],
+  [
+    "Sven Dickinson",
+    "https://www.cs.toronto.edu/~sven/"
+  ],
+  [
+    "David Duvenaud",
+    "https://www.cs.toronto.edu/~duvenaud/"
+  ],
+  [
+    "Roger Grosse",
+    "https://www.cs.toronto.edu/~rgrosse/"
+  ],
+  [
+    "Jimmy Ba",
+    "https://jimmylba.github.io/"
+  ],
+  [
+    "Geoffrey Hinton",
+    "https://www.cs.toronto.edu/~hinton/"
+  ],
+  [
+    "Yann LeCun",
+    "https://yann.lecun.com/"
+  ],
+  [
+    "Yoshua Bengio",
+    "https://yoshuabengio.org/"
+  ],
+  [
+    "Aaron Courville",
+    "https://aaroncourville.wordpress.com/"
+  ],
+  [
+    "Hugo Larochelle",
+    "https://hlarochelle.github.io/"
+  ],
+  [
+    "Joelle Pineau",
+    "https://www.cs.mcgill.ca/~jpineau/"
+  ],
+  [
+    "Doina Precup",
+    "https://www.cs.mcgill.ca/~dprecup/"
+  ],
+  [
+    "Richard Sutton",
+    "http://www.incompleteideas.net/"
+  ],
+  [
+    "David Silver",
+    "https://www.davidsilver.uk/"
+  ],
+  [
+    "Shimon Whiteson",
+    "https://www.cs.ox.ac.uk/people/shimon.whiteson/"
+  ],
+  [
+    "Shie Mannor",
+    "https://shie.net.technion.ac.il/"
+  ],
+  [
+    "Csaba Szepesvari",
+    "https://sites.ualberta.ca/~szepesva/"
+  ],
+  [
+    "Nan Jiang",
+    "https://nanjiang.cs.illinois.edu/"
+  ],
+  [
+    "Akshay Krishnamurthy",
+    "https://akshaykrishnamurthy.github.io/"
+  ],
+  [
+    "John Schulman",
+    "http://joschu.net/"
+  ],
+  [
+    "Lilian Weng",
+    "https://lilianweng.github.io/"
+  ],
+  [
+    "Jason Wei",
+    "https://www.jasonwei.net/"
+  ],
+  [
+    "Noam Shazeer",
+    "https://www.noamshazeer.com/"
+  ],
+  [
+    "Denny Zhou",
+    "https://dennyzhou.github.io/"
+  ],
+  [
+    "Quoc Le",
+    "https://ai.stanford.edu/~quocle/"
+  ],
+  [
+    "Thang Luong",
+    "https://thangluong.com/"
+  ],
+  [
+    "Colin Raffel",
+    "https://colinraffel.com/"
+  ],
+  [
+    "Jacob Andreas",
+    "https://www.mit.edu/~jda/"
+  ],
+  [
+    "Yoon Kim",
+    "https://people.csail.mit.edu/yoonkim/"
+  ],
+  [
+    "Dina Katabi",
+    "https://people.csail.mit.edu/dina/"
+  ],
+  [
+    "Regina Barzilay",
+    "https://people.csail.mit.edu/regina/"
+  ],
+  [
+    "Tommi Jaakkola",
+    "https://people.csail.mit.edu/tommi/"
+  ],
+  [
+    "David Sontag",
+    "https://people.csail.mit.edu/dsontag/"
+  ],
+  [
+    "Tamara Broderick",
+    "https://tamarabroderick.com/"
+  ],
+  [
+    "Leslie Kaelbling",
+    "https://people.csail.mit.edu/lpk/"
+  ],
+  [
+    "Tomás Lozano-Pérez",
+    "https://people.csail.mit.edu/tlp/"
+  ],
+  [
+    "Phillip Isola",
+    "https://web.mit.edu/phillipi/"
+  ],
+  [
+    "Antonio Torralba",
+    "https://groups.csail.mit.edu/vision/torralbalab/"
+  ],
+  [
+    "William Freeman",
+    "https://billf.mit.edu/"
+  ],
+  [
+    "Vincent Sitzmann",
+    "https://www.vincentsitzmann.com/"
+  ],
+  [
+    "Yilun Du",
+    "https://yilundu.github.io/"
+  ],
+  [
+    "Pulkit Agrawal",
+    "https://people.csail.mit.edu/pulkitag/"
+  ],
+  [
+    "Russ Tedrake",
+    "https://groups.csail.mit.edu/locomotion/russt.html"
+  ],
+  [
+    "Chuang Gan",
+    "https://people.csail.mit.edu/ganchuang/"
+  ],
+  [
+    "Song Han",
+    "https://hanlab.mit.edu/songhan"
+  ],
+  [
+    "Song-Chun Zhu",
+    "http://www.stat.ucla.edu/~sczhu/"
+  ],
+  [
+    "Yisong Yue",
+    "https://www.yisongyue.com/"
+  ],
+  [
+    "Anima Anandkumar",
+    "https://anima-ai.org/"
+  ],
+  [
+    "Diyi Yang",
+    "https://cs.stanford.edu/~diyiy/"
+  ],
+  [
+    "Danqi Chen",
+    "https://www.cs.princeton.edu/~danqic/"
+  ],
+  [
+    "Sanjeev Arora",
+    "https://www.cs.princeton.edu/~arora/"
+  ],
+  [
+    "Szymon Rusinkiewicz",
+    "https://www.cs.princeton.edu/~smr/"
+  ],
+  [
+    "Olga Russakovsky",
+    "https://www.cs.princeton.edu/~olgarus/"
+  ],
+  [
+    "Karthik Narasimhan",
+    "https://karthikncode.github.io/"
+  ],
+  [
+    "Tri Dao",
+    "https://tridao.me/"
+  ],
+  [
+    "Albert Gu",
+    "https://hazyresearch.stanford.edu/gu/"
+  ],
+  [
+    "Christopher Ré",
+    "https://cs.stanford.edu/people/chrismre/"
+  ],
+  [
+    "Tatsunori Hashimoto",
+    "https://thashim.github.io/"
+  ],
+  [
+    "Yejin Choi",
+    "https://yejinc.github.io/"
+  ],
+  [
+    "Luke Zettlemoyer",
+    "https://homes.cs.washington.edu/~lsz/"
+  ],
+  [
+    "Hannaneh Hajishirzi",
+    "https://homes.cs.washington.edu/~hannaneh/"
+  ],
+  [
+    "Noah Smith",
+    "https://nasmith.github.io/"
+  ],
+  [
+    "Ali Farhadi",
+    "https://homes.cs.washington.edu/~ali/"
+  ],
+  [
+    "Ranjay Krishna",
+    "https://www.ranjaykrishna.com/"
+  ],
+  [
+    "Roozbeh Mottaghi",
+    "https://roozbehm.info/"
+  ],
+  [
+    "Shwetak Patel",
+    "https://homes.cs.washington.edu/~shwetak/"
+  ],
+  [
+    "Sham Kakade",
+    "https://shamulent.github.io/"
+  ],
+  [
+    "Boaz Barak",
+    "https://www.boazbarak.org/"
+  ],
+  [
+    "Finale Doshi-Velez",
+    "https://finale.seas.harvard.edu/"
+  ],
+  [
+    "Hima Lakkaraju",
+    "https://himalakkaraju.github.io/"
+  ],
+  [
+    "Milind Tambe",
+    "https://teamcore.seas.harvard.edu/tambe"
+  ],
+  [
+    "David Parkes",
+    "https://parkes.seas.harvard.edu/"
+  ],
+  [
+    "Brendan McMahan",
+    "https://research.google/people/brendan-mcmahan/"
+  ],
+  [
+    "Kyunghyun Cho",
+    "https://kyunghyuncho.me/"
+  ],
+  [
+    "He He",
+    "https://hhexiy.github.io/"
+  ],
+  [
+    "Kyunghyun Sung",
+    "https://kyunghyun-sung.github.io/"
+  ],
+  [
+    "Kaiming He",
+    "https://people.csail.mit.edu/kaiming/"
+  ],
+  [
+    "Saining Xie",
+    "https://www.sainingxie.com/"
+  ],
+  [
+    "Ross Girshick",
+    "https://www.rossgirshick.info/"
+  ],
+  [
+    "Piotr Dollár",
+    "https://pdollar.github.io/"
+  ],
+  [
+    "Xinlei Chen",
+    "https://xinleic.xyz/"
+  ],
+  [
+    "Xiaolong Wang",
+    "https://xiaolonw.github.io/"
+  ],
+  [
+    "Xiaowei Zhou",
+    "https://www.cad.zju.edu.cn/home/xzhou/"
+  ],
+  [
+    "Hao Su",
+    "https://www.haosu.ai/"
+  ],
+  [
+    "Hao Zhang",
+    "https://haozhang.io/"
+  ],
+  [
+    "Kevin Murphy",
+    "https://www.cs.ubc.ca/~murphyk/"
+  ],
+  [
+    "Kevin Swersky",
+    "https://www.cs.toronto.edu/~kswersky/"
+  ],
+  [
+    "Dustin Tran",
+    "https://dustintran.com/"
+  ],
+  [
+    "Jasper Snoek",
+    "https://www.cs.toronto.edu/~jasper/"
+  ],
+  [
+    "Ryan Adams",
+    "https://www.cs.princeton.edu/~rpa/"
+  ],
+  [
+    "David Blei",
+    "https://www.cs.columbia.edu/~blei/"
+  ],
+  [
+    "John Paisley",
+    "https://www.columbia.edu/~jwp2128/"
+  ],
+  [
+    "Andrew Wilson",
+    "https://cims.nyu.edu/~andrewgw/"
+  ],
+  [
+    "Andrew Ng",
+    "https://www.andrewng.org/"
+  ],
+  [
+    "Andrew Zisserman",
+    "https://www.robots.ox.ac.uk/~az/"
+  ],
+  [
+    "Andrea Vedaldi",
+    "https://www.robots.ox.ac.uk/~vedaldi/"
+  ],
+  [
+    "Victor Lempitsky",
+    "https://lempitsky.com/"
+  ],
+  [
+    "Deva Ramanan",
+    "https://www.cs.cmu.edu/~deva/"
+  ],
+  [
+    "Derek Hoiem",
+    "https://dhoiem.cs.illinois.edu/"
+  ],
+  [
+    "Kristen Grauman",
+    "https://www.cs.utexas.edu/~grauman/"
+  ],
+  [
+    "Peter Stone",
+    "https://www.cs.utexas.edu/~pstone/"
+  ],
+  [
+    "François Fleuret",
+    "https://fleuret.org/francois/"
+  ],
+  [
+    "Francis Bach",
+    "https://www.di.ens.fr/~fbach/"
+  ],
+  [
+    "Jean Ponce",
+    "https://www.di.ens.fr/~ponce/"
+  ],
+  [
+    "Cordelia Schmid",
+    "https://lear.inrialpes.fr/people/schmid/"
+  ],
+  [
+    "Ivan Laptev",
+    "https://www.di.ens.fr/~laptev/"
+  ],
+  [
+    "Josef Sivic",
+    "https://www.di.ens.fr/~josef/"
+  ],
+  [
+    "Tim Salimans",
+    "https://timsalimans.com/"
+  ],
+  [
+    "Yang Song",
+    "https://yang-song.net/"
+  ],
+  [
+    "Jonathan Ho",
+    "https://jonathanho.github.io/"
+  ],
+  [
+    "Diederik Kingma",
+    "https://dpkingma.com/"
+  ]
+]

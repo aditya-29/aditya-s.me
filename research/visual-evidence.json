@@ -1,0 +1,86 @@
+[
+  {
+    "name": "chelsea-finn",
+    "url": "https://ai.stanford.edu/~cbfinn/",
+    "title": "Chelsea Finn, Stanford University",
+    "textLength": 1337,
+    "screenshot": "chelsea-finn.png"
+  },
+  {
+    "name": "danqi-chen",
+    "url": "https://www.cs.princeton.edu/~danqic/",
+    "title": "Danqi Chen",
+    "textLength": 922,
+    "screenshot": "danqi-chen.png"
+  },
+  {
+    "name": "jon-barron",
+    "url": "https://jonbarron.info/",
+    "title": "Jon Barron",
+    "textLength": 39993,
+    "screenshot": "jon-barron.png"
+  },
+  {
+    "name": "yoon-kim",
+    "url": "https://people.csail.mit.edu/yoonkim/",
+    "title": "Yoon Kim",
+    "textLength": 1690,
+    "screenshot": "yoon-kim.png"
+  },
+  {
+    "name": "colin-raffel",
+    "url": "https://colinraffel.com/",
+    "title": "Colin Raffel",
+    "textLength": 826,
+    "screenshot": "colin-raffel.png"
+  },
+  {
+    "name": "vincent-sitzmann",
+    "url": "https://www.vincentsitzmann.com/",
+    "title": "Vincent Sitzmann",
+    "textLength": 4311,
+    "screenshot": "vincent-sitzmann.png"
+  },
+  {
+    "name": "sharon-li",
+    "url": "https://pages.cs.wisc.edu/~sharonli/",
+    "title": "Sharon Li - UW Madison Computer Sciences",
+    "textLength": 5745,
+    "screenshot": "sharon-li.png"
+  },
+  {
+    "name": "tri-dao",
+    "url": "https://tridao.me/",
+    "title": "Tri Dao",
+    "textLength": 3982,
+    "screenshot": "tri-dao.png"
+  },
+  {
+    "name": "graham-neubig",
+    "url": "https://www.phontron.com/",
+    "title": "Graham Neubig",
+    "textLength": 1160,
+    "screenshot": "graham-neubig.png"
+  },
+  {
+    "name": "sanjeev-arora",
+    "url": "https://profsanjeevarora.github.io/",
+    "title": "Sanjeev Arora",
+    "textLength": 644,
+    "screenshot": "sanjeev-arora.png"
+  },
+  {
+    "name": "karthik-narasimhan",
+    "url": "https://karthikncode.github.io/",
+    "title": "Karthik R. Narasimhan",
+    "textLength": 2143,
+    "screenshot": "karthik-narasimhan.png"
+  },
+  {
+    "name": "he-he",
+    "url": "https://hhexiy.ai/",
+    "title": "He He",
+    "textLength": 1782,
+    "screenshot": "he-he.png"
+  }
+]

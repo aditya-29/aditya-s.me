@@ -1,0 +1,2782 @@
+[
+  {
+    "id": 0,
+    "name": "Andrej Karpathy",
+    "url": "https://karpathy.ai/",
+    "title": "Andrej Karpathy",
+    "headings": [
+      "Andrej Karpathy",
+      "I like to train deep neural nets on large datasets 🧠🤖💥"
+    ],
+    "signals": [
+      "publications",
+      "email",
+      "teaching",
+      "code",
+      "Scholar"
+    ],
+    "images": 46,
+    "words": 1830,
+    "included_in_structural_review": true
+  },
+  {
+    "id": 1,
+    "name": "Andreas Geiger",
+    "url": "https://www.cvlibs.net/",
+    "title": "Andreas Geiger",
+    "headings": [
+      "Welcome",
+      "Main Achievements",
+      "Software and Benchmarks",
+      "News"
+    ],
+    "signals": [
+      "publications",
+      "CV",
+      "email",
+      "teaching",
+      "news",
+      "code",
+      "Scholar"
+    ],
+    "images": 4,
+    "words": 562,
+    "included_in_structural_review": true
+  },
+  {
+    "id": 2,
+    "name": "Jon Barron",
+    "url": "https://jonbarron.info/",
+    "title": "Jon Barron",
+    "headings": [
+      "Research",
+      "Miscellanea",
+      "Micropapers",
+      "Recorded Talks",
+      "Academic Service",
+      "Teaching"
+    ],
+    "signals": [
+      "CV",
+      "email",
+      "teaching",
+      "news",
+      "code",
+      "Scholar"
+    ],
+    "images": 162,
+    "words": 6895,
+    "included_in_structural_review": true
+  },
+  {
+    "id": 3,
+    "name": "Pieter Abbeel",
+    "url": "https://www2.eecs.berkeley.edu/Faculty/Homepages/abbeel.html",
+    "title": "Page not found | IRIS",
+    "headings": [
+      "Not found, error 404"
+    ],
+    "signals": [],
+    "images": 0,
+    "words": 172,
+    "included_in_structural_review": false
+  },
+  {
+    "id": 4,
+    "name": "Sergey Levine",
+    "url": "https://www.sergeylevine.com/",
+    "title": "Page not found | IRIS",
+    "headings": [
+      "Not found, error 404"
+    ],
+    "signals": [],
+    "images": 0,
+    "words": 172,
+    "included_in_structural_review": false
+  },
+  {
+    "id": 5,
+    "name": "Chelsea Finn",
+    "url": "https://ai.stanford.edu/~cbfinn/",
+    "title": "Chelsea Finn, Stanford University",
+    "headings": [],
+    "signals": [
+      "CV",
+      "teaching",
+      "news",
+      "code",
+      "Scholar"
+    ],
+    "images": 1,
+    "words": 222,
+    "included_in_structural_review": true
+  },
+  {
+    "id": 6,
+    "name": "Jure Leskovec",
+    "url": "https://cs.stanford.edu/people/jure/",
+    "title": "Jure Leskovec @ Stanford",
+    "headings": [
+      "What's new",
+      "Latest publications"
+    ],
+    "signals": [
+      "publications",
+      "email",
+      "teaching",
+      "code"
+    ],
+    "images": 4,
+    "words": 414,
+    "included_in_structural_review": true
+  },
+  {
+    "id": 7,
+    "name": "Percy Liang",
+    "url": "https://cs.stanford.edu/~pliang/",
+    "title": "Percy Liang",
+    "headings": [],
+    "signals": [
+      "publications",
+      "teaching",
+      "code",
+      "Scholar"
+    ],
+    "images": 1,
+    "words": 1028,
+    "included_in_structural_review": true
+  },
+  {
+    "id": 8,
+    "name": "Christopher Manning",
+    "url": "https://nlp.stanford.edu/~manning/",
+    "title": "Christopher Manning, Stanford NLP",
+    "headings": [
+      "Christopher Manning",
+      "Thomas M. Siebel Professor in Machine Learning, Professor of Linguistics and of"
+    ],
+    "signals": [
+      "publications",
+      "CV",
+      "email",
+      "teaching",
+      "code",
+      "Scholar"
+    ],
+    "images": 1,
+    "words": 1508,
+    "included_in_structural_review": true
+  },
+  {
+    "id": 9,
+    "name": "Dan Jurafsky",
+    "url": "https://web.stanford.edu/~jurafsky/",
+    "title": "Dan Jurafsky - Home Page",
+    "headings": [],
+    "signals": [
+      "CV",
+      "email",
+      "teaching",
+      "code",
+      "Scholar"
+    ],
+    "images": 3,
+    "words": 763,
+    "included_in_structural_review": true
+  },
+  {
+    "id": 10,
+    "name": "Fei-Fei Li",
+    "url": "https://profiles.stanford.edu/fei-fei-li",
+    "title": "Fei-Fei Li's Profile | Stanford Profiles",
+    "headings": [
+      "Fei-Fei Li",
+      "Sequoia Capital Professor, Senior Fellow at HAI and Professor, by courtesy, of"
+    ],
+    "signals": [
+      "publications",
+      "CV",
+      "email",
+      "teaching",
+      "code"
+    ],
+    "images": 1,
+    "words": 56229,
+    "included_in_structural_review": false
+  },
+  {
+    "id": 11,
+    "name": "Jitendra Malik",
+    "url": "https://people.eecs.berkeley.edu/~malik/",
+    "title": "Page not found | IRIS",
+    "headings": [
+      "Not found, error 404"
+    ],
+    "signals": [],
+    "images": 0,
+    "words": 172,
+    "included_in_structural_review": false
+  },
+  {
+    "id": 12,
+    "name": "Alexei Efros",
+    "url": "https://www.eecs.berkeley.edu/~efros/",
+    "title": "Page not found | IRIS",
+    "headings": [
+      "Not found, error 404"
+    ],
+    "signals": [],
+    "images": 0,
+    "words": 172,
+    "included_in_structural_review": false
+  },
+  {
+    "id": 13,
+    "name": "Trevor Darrell",
+    "url": "https://people.eecs.berkeley.edu/~trevor/",
+    "title": "Page not found | IRIS",
+    "headings": [
+      "Not found, error 404"
+    ],
+    "signals": [],
+    "images": 0,
+    "words": 172,
+    "included_in_structural_review": false
+  },
+  {
+    "id": 14,
+    "name": "Dawn Song",
+    "url": "https://dawnsong.io/",
+    "title": "Dawn Xiaodong Song's Home Page",
+    "headings": [
+      "Dawn Song [Bio]",
+      "News",
+      "Research",
+      "Awards (selected)",
+      "Recognition (Selected)",
+      "Services (selected)",
+      "Teaching",
+      "Talks (selected)"
+    ],
+    "signals": [
+      "publications",
+      "email",
+      "teaching",
+      "news",
+      "code",
+      "Scholar"
+    ],
+    "images": 1,
+    "words": 1198,
+    "included_in_structural_review": true
+  },
+  {
+    "id": 15,
+    "name": "Michael Jordan",
+    "url": "https://people.eecs.berkeley.edu/~jordan/",
+    "title": "Page not found | IRIS",
+    "headings": [
+      "Not found, error 404"
+    ],
+    "signals": [],
+    "images": 0,
+    "words": 172,
+    "included_in_structural_review": false
+  },
+  {
+    "id": 16,
+    "name": "Peter Bartlett",
+    "url": "https://www.stat.berkeley.edu/~bartlett/",
+    "title": "Peter Bartlett's Home Page",
+    "headings": [
+      "Peter L. Bartlett",
+      "Publications, Google Scholar",
+      "Talks",
+      "Courses:",
+      "Conferences:",
+      "Students and Postdocs:",
+      "Former Students"
+    ],
+    "signals": [
+      "publications",
+      "email",
+      "teaching",
+      "code",
+      "Scholar"
+    ],
+    "images": 1,
+    "words": 836,
+    "included_in_structural_review": true
+  },
+  {
+    "id": 17,
+    "name": "Martin Wainwright",
+    "url": "https://wainwright.mit.edu/",
+    "title": "Page not found | IRIS",
+    "headings": [
+      "Not found, error 404"
+    ],
+    "signals": [],
+    "images": 0,
+    "words": 172,
+    "included_in_structural_review": false
+  },
+  {
+    "id": 18,
+    "name": "Stuart Russell",
+    "url": "https://people.eecs.berkeley.edu/~russell/",
+    "title": "Page not found | IRIS",
+    "headings": [
+      "Not found, error 404"
+    ],
+    "signals": [],
+    "images": 0,
+    "words": 172,
+    "included_in_structural_review": false
+  },
+  {
+    "id": 20,
+    "name": "Dorsa Sadigh",
+    "url": "https://dorsa.fyi/",
+    "title": "Dorsa Sadigh",
+    "headings": [],
+    "signals": [
+      "publications",
+      "teaching"
+    ],
+    "images": 1,
+    "words": 93,
+    "included_in_structural_review": true
+  },
+  {
+    "id": 21,
+    "name": "Emma Brunskill",
+    "url": "https://cs.stanford.edu/people/ebrun/",
+    "title": "Emma Brunskill",
+    "headings": [
+      "Emma Brunskill"
+    ],
+    "signals": [
+      "publications",
+      "email",
+      "teaching",
+      "news"
+    ],
+    "images": 1,
+    "words": 366,
+    "included_in_structural_review": true
+  },
+  {
+    "id": 22,
+    "name": "Tengyu Ma",
+    "url": "https://ai.stanford.edu/~tengyuma/",
+    "title": "Tengyu Ma's Homepage",
+    "headings": [
+      "Tengyu Ma (马腾宇)",
+      "About",
+      "Current Ph.D. students and post-docs",
+      "Alumni",
+      "Publications",
+      "Teaching",
+      "Service",
+      "Awards"
+    ],
+    "signals": [
+      "publications",
+      "email",
+      "teaching",
+      "code",
+      "Scholar"
+    ],
+    "images": 1,
+    "words": 443,
+    "included_in_structural_review": true
+  },
+  {
+    "id": 23,
+    "name": "Stefano Ermon",
+    "url": "https://cs.stanford.edu/~ermon/",
+    "title": "Stefano Ermon",
+    "headings": [
+      "Associate Professor Department of Computer Science Stanford University",
+      "Office: Gates Building #330 Phone: (650)"
+    ],
+    "signals": [
+      "publications",
+      "CV",
+      "teaching",
+      "news",
+      "code"
+    ],
+    "images": 1,
+    "words": 10032,
+    "included_in_structural_review": true
+  },
+  {
+    "id": 24,
+    "name": "Sharon Li",
+    "url": "https://pages.cs.wisc.edu/~sharonli/",
+    "title": "Sharon Li - UW Madison Computer Sciences",
+    "headings": [
+      "Sharon Li",
+      "About",
+      "Recent/upcoming Talk",
+      "Recent news"
+    ],
+    "signals": [
+      "publications",
+      "CV",
+      "email",
+      "teaching",
+      "news",
+      "code",
+      "Scholar"
+    ],
+    "images": 2,
+    "words": 1122,
+    "included_in_structural_review": true
+  },
+  {
+    "id": 25,
+    "name": "Ludwig Schmidt",
+    "url": "https://people.csail.mit.edu/ludwigs/",
+    "title": "Ludwig Schmidt",
+    "headings": [
+      "Ludwig Schmidt",
+      "Selected publications"
+    ],
+    "signals": [
+      "publications",
+      "email",
+      "teaching",
+      "code",
+      "Scholar"
+    ],
+    "images": 1,
+    "words": 579,
+    "included_in_structural_review": true
+  },
+  {
+    "id": 26,
+    "name": "Aleksander Madry",
+    "url": "https://madry.mit.edu/",
+    "title": "Homepage: Aleksander Mądry",
+    "headings": [
+      "Aleksander Mądry",
+      "Selected (Older) Papers (Show all):",
+      "Teaching:"
+    ],
+    "signals": [
+      "CV",
+      "email",
+      "teaching"
+    ],
+    "images": 2,
+    "words": 1488,
+    "included_in_structural_review": true
+  },
+  {
+    "id": 27,
+    "name": "Aleksander Mądry",
+    "url": "https://people.csail.mit.edu/madry/",
+    "title": "Homepage: Aleksander Mądry",
+    "headings": [],
+    "signals": [],
+    "images": 0,
+    "words": 3,
+    "included_in_structural_review": false
+  },
+  {
+    "id": 28,
+    "name": "Aleksandra Korolova",
+    "url": "https://www.cs.princeton.edu/~korolova/",
+    "title": "Page not found | CSPrinceton EngineeringMagnifying GlassPrinceton Computer ScienceChevron UpPlusMinusChevron",
+    "headings": [
+      "Main navigation",
+      "Page not found"
+    ],
+    "signals": [
+      "email",
+      "teaching",
+      "news"
+    ],
+    "images": 0,
+    "words": 144,
+    "included_in_structural_review": false
+  },
+  {
+    "id": 29,
+    "name": "Zico Kolter",
+    "url": "https://zicokolter.com/",
+    "title": "Zico Kolter",
+    "headings": [
+      "Zico Kolter"
+    ],
+    "signals": [
+      "publications",
+      "email",
+      "teaching",
+      "code"
+    ],
+    "images": 1,
+    "words": 125,
+    "included_in_structural_review": true
+  },
+  {
+    "id": 30,
+    "name": "Ameet Talwalkar",
+    "url": "https://www.cs.cmu.edu/~atalwalk/",
+    "title": "Ameet Talwalkar",
+    "headings": [
+      "Ameet Talwalkar",
+      "Selected Recent Work"
+    ],
+    "signals": [
+      "teaching",
+      "code",
+      "Scholar"
+    ],
+    "images": 1,
+    "words": 366,
+    "included_in_structural_review": true
+  },
+  {
+    "id": 31,
+    "name": "Zachary Lipton",
+    "url": "https://www.zacharylipton.com/",
+    "title": "Zachary Lipton | Associate Professor, Machine Learning, CMU",
+    "headings": [
+      "Zachary Lipton",
+      "Associate Professor, Machine Learning, CMU"
+    ],
+    "signals": [
+      "email",
+      "news",
+      "code"
+    ],
+    "images": 0,
+    "words": 611,
+    "included_in_structural_review": true
+  },
+  {
+    "id": 32,
+    "name": "Graham Neubig",
+    "url": "https://www.phontron.com/",
+    "title": "Graham Neubig",
+    "headings": [],
+    "signals": [],
+    "images": 0,
+    "words": 2,
+    "included_in_structural_review": false
+  },
+  {
+    "id": 33,
+    "name": "Emma Strubell",
+    "url": "https://strubell.github.io/",
+    "title": "Emma Strubell",
+    "headings": [
+      "Emma Strubell they/them",
+      "/etc"
+    ],
+    "signals": [
+      "publications",
+      "email",
+      "teaching",
+      "code",
+      "Scholar"
+    ],
+    "images": 1,
+    "words": 469,
+    "included_in_structural_review": true
+  },
+  {
+    "id": 34,
+    "name": "Maarten Sap",
+    "url": "https://maartensap.com/",
+    "title": "Maarten Sap - Home",
+    "headings": [
+      "Maarten Sap",
+      "My Research Group",
+      "Overarching Research Themes",
+      "More about me"
+    ],
+    "signals": [
+      "publications",
+      "CV",
+      "teaching",
+      "news",
+      "code",
+      "Scholar"
+    ],
+    "images": 9,
+    "words": 982,
+    "included_in_structural_review": true
+  },
+  {
+    "id": 35,
+    "name": "Aditi Raghunathan",
+    "url": "https://www.cs.cmu.edu/~aditirag/",
+    "title": "Aditi Raghunathan - Homepage",
+    "headings": [
+      "Selected honors"
+    ],
+    "signals": [
+      "publications",
+      "email",
+      "teaching",
+      "news",
+      "code"
+    ],
+    "images": 1,
+    "words": 340,
+    "included_in_structural_review": true
+  },
+  {
+    "id": 36,
+    "name": "Deepak Pathak",
+    "url": "https://www.cs.cmu.edu/~dpathak/",
+    "title": "Deepak Pathak",
+    "headings": [],
+    "signals": [
+      "publications",
+      "CV",
+      "email",
+      "teaching",
+      "news",
+      "code",
+      "Scholar"
+    ],
+    "images": 75,
+    "words": 24097,
+    "included_in_structural_review": true
+  },
+  {
+    "id": 37,
+    "name": "Abhinav Gupta",
+    "url": "https://www.cs.cmu.edu/~abhinavg/",
+    "title": "Abhinav Gupta Homepage",
+    "headings": [],
+    "signals": [
+      "publications",
+      "CV",
+      "email",
+      "teaching",
+      "news",
+      "code",
+      "Scholar"
+    ],
+    "images": 168,
+    "words": 1648,
+    "included_in_structural_review": true
+  },
+  {
+    "id": 38,
+    "name": "Saurabh Gupta",
+    "url": "https://saurabhg.web.illinois.edu/",
+    "title": "Saurabh Gupta",
+    "headings": [
+      "Saurabh Gupta",
+      "Research",
+      "Research Group",
+      "Current PhD Students",
+      "Former PhD Students",
+      "Full Group",
+      "Recent"
+    ],
+    "signals": [
+      "publications",
+      "CV",
+      "email",
+      "teaching",
+      "code",
+      "Scholar"
+    ],
+    "images": 78,
+    "words": 18549,
+    "included_in_structural_review": true
+  },
+  {
+    "id": 39,
+    "name": "Sanja Fidler",
+    "url": "https://www.cs.toronto.edu/~fidler/",
+    "title": "Sanja Fidler",
+    "headings": [
+      "Information",
+      "Information for Prospective Students",
+      "Tutorials and Workshops",
+      "Awards"
+    ],
+    "signals": [
+      "publications",
+      "CV",
+      "teaching"
+    ],
+    "images": 1,
+    "words": 355,
+    "included_in_structural_review": true
+  },
+  {
+    "id": 40,
+    "name": "Raquel Urtasun",
+    "url": "https://www.cs.toronto.edu/~urtasun/",
+    "title": "Raquel Urtasun",
+    "headings": [
+      "Raquel Urtasun Home Page"
+    ],
+    "signals": [
+      "publications",
+      "CV",
+      "email",
+      "teaching",
+      "news",
+      "code"
+    ],
+    "images": 7,
+    "words": 3197,
+    "included_in_structural_review": true
+  },
+  {
+    "id": 41,
+    "name": "Sven Dickinson",
+    "url": "https://www.cs.toronto.edu/~sven/",
+    "title": "Home Page for Professor Sven Dickinson",
+    "headings": [
+      "Sven Dickinson, Professor University of Toronto",
+      "Teaching Research Publications Students Personal CV Links Bio"
+    ],
+    "signals": [
+      "publications",
+      "CV",
+      "email",
+      "teaching"
+    ],
+    "images": 1,
+    "words": 61,
+    "included_in_structural_review": true
+  },
+  {
+    "id": 42,
+    "name": "David Duvenaud",
+    "url": "https://www.cs.toronto.edu/~duvenaud/",
+    "title": "David Duvenaud",
+    "headings": [
+      "David Kristjanson Duvenaud",
+      "Selected papers",
+      "Teaching"
+    ],
+    "signals": [
+      "publications",
+      "CV",
+      "email",
+      "teaching",
+      "news",
+      "code",
+      "Scholar"
+    ],
+    "images": 62,
+    "words": 6473,
+    "included_in_structural_review": true
+  },
+  {
+    "id": 43,
+    "name": "Roger Grosse",
+    "url": "https://www.cs.toronto.edu/~rgrosse/",
+    "title": "Roger Grosse",
+    "headings": [
+      "About",
+      "Contact"
+    ],
+    "signals": [
+      "publications",
+      "teaching"
+    ],
+    "images": 0,
+    "words": 284,
+    "included_in_structural_review": true
+  },
+  {
+    "id": 44,
+    "name": "Jimmy Ba",
+    "url": "https://jimmylba.github.io/",
+    "title": "Jimmy Ba | home page",
+    "headings": [
+      "Current postdocs",
+      "Current students",
+      "Teaching",
+      "Research"
+    ],
+    "signals": [
+      "publications",
+      "CV",
+      "teaching",
+      "code",
+      "Scholar"
+    ],
+    "images": 1,
+    "words": 1855,
+    "included_in_structural_review": true
+  },
+  {
+    "id": 45,
+    "name": "Geoffrey Hinton",
+    "url": "https://www.cs.toronto.edu/~hinton/",
+    "title": "Geoffrey Hinton",
+    "headings": [
+      "Geoffrey E. Hinton",
+      "Scientific Publications",
+      "Publications",
+      "Teaching",
+      "Teaching",
+      "Media Appearances",
+      "Media Appearances",
+      "Amusing Odds"
+    ],
+    "signals": [
+      "publications",
+      "CV",
+      "email",
+      "teaching",
+      "code"
+    ],
+    "images": 0,
+    "words": 848,
+    "included_in_structural_review": true
+  },
+  {
+    "id": 47,
+    "name": "Yoshua Bengio",
+    "url": "https://yoshuabengio.org/",
+    "title": "Home | Yoshua Bengio",
+    "headings": [
+      "Main navigation",
+      "Home",
+      "A.M. Turing Award Recipient and most-cited AI researcher",
+      "2026 International AI"
+    ],
+    "signals": [
+      "email",
+      "news"
+    ],
+    "images": 12,
+    "words": 632,
+    "included_in_structural_review": true
+  },
+  {
+    "id": 48,
+    "name": "Aaron Courville",
+    "url": "https://aaroncourville.wordpress.com/",
+    "title": "Aaron Courville",
+    "headings": [
+      "Aaron Courville",
+      "CIFAR Deep Learning Summer School",
+      "CIFAR Deep Learning Summer School",
+      "Want to"
+    ],
+    "signals": [
+      "CV"
+    ],
+    "images": 5,
+    "words": 854,
+    "included_in_structural_review": true
+  },
+  {
+    "id": 49,
+    "name": "Hugo Larochelle",
+    "url": "https://hlarochelle.github.io/",
+    "title": "Site not found · GitHub Pages",
+    "headings": [
+      "404"
+    ],
+    "signals": [
+      "email",
+      "code"
+    ],
+    "images": 2,
+    "words": 43,
+    "included_in_structural_review": false
+  },
+  {
+    "id": 50,
+    "name": "Joelle Pineau",
+    "url": "https://www.cs.mcgill.ca/~jpineau/",
+    "title": "Joelle Pineau's Home",
+    "headings": [
+      "Joelle Pineau's webpage at McGill",
+      "News:",
+      "Current status:",
+      "Short bio:"
+    ],
+    "signals": [
+      "publications",
+      "teaching",
+      "news"
+    ],
+    "images": 1,
+    "words": 258,
+    "included_in_structural_review": true
+  },
+  {
+    "id": 51,
+    "name": "Doina Precup",
+    "url": "https://www.cs.mcgill.ca/~dprecup/",
+    "title": "Doina Precup",
+    "headings": [
+      "Doina Precup"
+    ],
+    "signals": [
+      "publications",
+      "teaching",
+      "Scholar"
+    ],
+    "images": 5,
+    "words": 430,
+    "included_in_structural_review": true
+  },
+  {
+    "id": 52,
+    "name": "Richard Sutton",
+    "url": "http://www.incompleteideas.net/",
+    "title": "Rich Sutton's Home Page",
+    "headings": [
+      "Richard S. Sutton"
+    ],
+    "signals": [
+      "publications",
+      "CV",
+      "email",
+      "teaching",
+      "code",
+      "Scholar"
+    ],
+    "images": 5,
+    "words": 918,
+    "included_in_structural_review": true
+  },
+  {
+    "id": 53,
+    "name": "David Silver",
+    "url": "https://www.davidsilver.uk/",
+    "title": "David Silver",
+    "headings": [
+      "Home",
+      "About"
+    ],
+    "signals": [
+      "publications",
+      "teaching"
+    ],
+    "images": 3,
+    "words": 78,
+    "included_in_structural_review": true
+  },
+  {
+    "id": 54,
+    "name": "Shimon Whiteson",
+    "url": "https://www.cs.ox.ac.uk/people/shimon.whiteson/",
+    "title": "Shimon Whiteson | Department of Computer Science",
+    "headings": [
+      "Shimon Whiteson",
+      "Themes:",
+      "See Also:",
+      "Interests",
+      "Selected Publications",
+      "Activities",
+      "Past Students",
+      "About Us"
+    ],
+    "signals": [
+      "publications",
+      "CV",
+      "news",
+      "Scholar"
+    ],
+    "images": 11,
+    "words": 378,
+    "included_in_structural_review": false
+  },
+  {
+    "id": 55,
+    "name": "Shie Mannor",
+    "url": "https://shie.net.technion.ac.il/",
+    "title": "Reinforcement Learning Research Labs | Prof. Shie Mannor | Technion",
+    "headings": [
+      "WELCOME! I am Shie Mannor, Professor of Electrical Engineering and Computer, Technion",
+      "Vita",
+      "Research"
+    ],
+    "signals": [
+      "publications"
+    ],
+    "images": 18,
+    "words": 305,
+    "included_in_structural_review": true
+  },
+  {
+    "id": 56,
+    "name": "Csaba Szepesvari",
+    "url": "https://sites.ualberta.ca/~szepesva/",
+    "title": "Csaba Szepesvári",
+    "headings": [
+      "Csaba Szepesvári",
+      "Contact Information"
+    ],
+    "signals": [
+      "publications",
+      "CV",
+      "email",
+      "teaching",
+      "code",
+      "Scholar"
+    ],
+    "images": 1,
+    "words": 170,
+    "included_in_structural_review": true
+  },
+  {
+    "id": 57,
+    "name": "Nan Jiang",
+    "url": "https://nanjiang.cs.illinois.edu/",
+    "title": "Nan Jiang",
+    "headings": [],
+    "signals": [
+      "publications",
+      "CV",
+      "email",
+      "teaching",
+      "code"
+    ],
+    "images": 1,
+    "words": 633,
+    "included_in_structural_review": true
+  },
+  {
+    "id": 58,
+    "name": "Akshay Krishnamurthy",
+    "url": "https://akshaykrishnamurthy.github.io/",
+    "title": "Site not found · GitHub Pages",
+    "headings": [
+      "404"
+    ],
+    "signals": [
+      "email",
+      "code"
+    ],
+    "images": 2,
+    "words": 43,
+    "included_in_structural_review": false
+  },
+  {
+    "id": 59,
+    "name": "John Schulman",
+    "url": "http://joschu.net/",
+    "title": "John Schulman's Homepage",
+    "headings": [],
+    "signals": [
+      "publications",
+      "code"
+    ],
+    "images": 1,
+    "words": 118,
+    "included_in_structural_review": true
+  },
+  {
+    "id": 60,
+    "name": "Lilian Weng",
+    "url": "https://lilianweng.github.io/",
+    "title": "Lil'Log",
+    "headings": [
+      "👋 Welcome to Lil’Log",
+      "Harness Engineering for Self-Improvement",
+      "Scaling Laws, Carefully",
+      "Why We Think"
+    ],
+    "signals": [
+      "code",
+      "Scholar"
+    ],
+    "images": 0,
+    "words": 1535,
+    "included_in_structural_review": true
+  },
+  {
+    "id": 61,
+    "name": "Jason Wei",
+    "url": "https://www.jasonwei.net/",
+    "title": "Jason Wei",
+    "headings": [],
+    "signals": [
+      "CV",
+      "email",
+      "Scholar"
+    ],
+    "images": 1,
+    "words": 371,
+    "included_in_structural_review": true
+  },
+  {
+    "id": 62,
+    "name": "Noam Shazeer",
+    "url": "https://www.noamshazeer.com/",
+    "title": "Noam Shazeer | AI Scientist, OpenAI",
+    "headings": [
+      "Noam Shazeer",
+      "About Noam"
+    ],
+    "signals": [
+      "Scholar"
+    ],
+    "images": 9,
+    "words": 160,
+    "included_in_structural_review": true
+  },
+  {
+    "id": 63,
+    "name": "Denny Zhou",
+    "url": "https://dennyzhou.github.io/",
+    "title": "Denny Zhou's Home Page",
+    "headings": [
+      "DENNY ZHOU",
+      "PUBLICATIONS",
+      "INVITED TALKS",
+      "PROFESSIONAL ACTIVITIES",
+      "HOBBIES"
+    ],
+    "signals": [
+      "publications",
+      "teaching",
+      "code"
+    ],
+    "images": 0,
+    "words": 3385,
+    "included_in_structural_review": true
+  },
+  {
+    "id": 64,
+    "name": "Quoc Le",
+    "url": "https://ai.stanford.edu/~quocle/",
+    "title": "Quoc Viet Le",
+    "headings": [
+      "Quoc V. Le"
+    ],
+    "signals": [
+      "publications",
+      "email",
+      "code",
+      "Scholar"
+    ],
+    "images": 2,
+    "words": 542,
+    "included_in_structural_review": true
+  },
+  {
+    "id": 65,
+    "name": "Thang Luong",
+    "url": "https://thangluong.com/",
+    "title": "Coming Soon",
+    "headings": [
+      "thangluong.com"
+    ],
+    "signals": [],
+    "images": 2,
+    "words": 13,
+    "included_in_structural_review": false
+  },
+  {
+    "id": 66,
+    "name": "Colin Raffel",
+    "url": "https://colinraffel.com/",
+    "title": "Colin Raffel",
+    "headings": [
+      "Colin Raffel"
+    ],
+    "signals": [
+      "publications",
+      "CV",
+      "code"
+    ],
+    "images": 1,
+    "words": 133,
+    "included_in_structural_review": true
+  },
+  {
+    "id": 67,
+    "name": "Jacob Andreas",
+    "url": "https://www.mit.edu/~jda/",
+    "title": "Jacob Andreas @ MIT",
+    "headings": [
+      "Jacob Andreas",
+      "Lab / Research / Bio / Teaching / Contact"
+    ],
+    "signals": [
+      "email",
+      "teaching",
+      "Scholar"
+    ],
+    "images": 1,
+    "words": 524,
+    "included_in_structural_review": true
+  },
+  {
+    "id": 68,
+    "name": "Yoon Kim",
+    "url": "https://people.csail.mit.edu/yoonkim/",
+    "title": "Yoon Kim",
+    "headings": [
+      "Yoon Kim",
+      "Group",
+      "Recent Papers [all publications]"
+    ],
+    "signals": [
+      "publications",
+      "CV",
+      "email",
+      "code",
+      "Scholar"
+    ],
+    "images": 1,
+    "words": 275,
+    "included_in_structural_review": true
+  },
+  {
+    "id": 69,
+    "name": "Dina Katabi",
+    "url": "https://people.csail.mit.edu/dina/",
+    "title": "Dina Katabi",
+    "headings": [
+      "Dina Katabi"
+    ],
+    "signals": [
+      "publications",
+      "email",
+      "news"
+    ],
+    "images": 4,
+    "words": 133,
+    "included_in_structural_review": true
+  },
+  {
+    "id": 70,
+    "name": "Regina Barzilay",
+    "url": "https://people.csail.mit.edu/regina/",
+    "title": "Home | Regina Barzilay",
+    "headings": [
+      "Regina Barzilay",
+      "School of Engineering Distinguished Professor for AI and Health AI Faculty Lead,"
+    ],
+    "signals": [
+      "publications",
+      "email",
+      "teaching",
+      "news",
+      "code"
+    ],
+    "images": 10,
+    "words": 965,
+    "included_in_structural_review": true
+  },
+  {
+    "id": 71,
+    "name": "Tommi Jaakkola",
+    "url": "https://people.csail.mit.edu/tommi/",
+    "title": "Tommi Jaakkola",
+    "headings": [
+      "Research synopsis (more projects)",
+      "People (more people)",
+      "Recent highlight(s)",
+      "Recent publications (more papers, Google"
+    ],
+    "signals": [
+      "publications",
+      "teaching",
+      "code",
+      "Scholar"
+    ],
+    "images": 1,
+    "words": 3397,
+    "included_in_structural_review": true
+  },
+  {
+    "id": 72,
+    "name": "David Sontag",
+    "url": "https://people.csail.mit.edu/dsontag/",
+    "title": "David Sontag",
+    "headings": [
+      "David Sontag's Home Page",
+      "News",
+      "Teaching",
+      "Publications All publications (Google Scholar)",
+      "Code (for latest,"
+    ],
+    "signals": [
+      "publications",
+      "email",
+      "teaching",
+      "news",
+      "code",
+      "Scholar"
+    ],
+    "images": 1,
+    "words": 951,
+    "included_in_structural_review": true
+  },
+  {
+    "id": 73,
+    "name": "Tamara Broderick",
+    "url": "https://tamarabroderick.com/",
+    "title": "Tamara Broderick",
+    "headings": [
+      "About me",
+      "Current PhD Students and Postdocs",
+      "Past PhD Students and Postdocs",
+      "Interested in"
+    ],
+    "signals": [
+      "publications",
+      "email",
+      "teaching",
+      "code",
+      "Scholar"
+    ],
+    "images": 2,
+    "words": 363,
+    "included_in_structural_review": true
+  },
+  {
+    "id": 74,
+    "name": "Leslie Kaelbling",
+    "url": "https://people.csail.mit.edu/lpk/",
+    "title": "Leslie Pack Kaelbling's Home Page",
+    "headings": [
+      "Leslie Pack Kaelbling",
+      "Learning in Intelligent Systems (LIS) Group",
+      "Publications from 1993--2015"
+    ],
+    "signals": [
+      "publications",
+      "email",
+      "Scholar"
+    ],
+    "images": 1,
+    "words": 92,
+    "included_in_structural_review": true
+  },
+  {
+    "id": 75,
+    "name": "Tomás Lozano-Pérez",
+    "url": "https://people.csail.mit.edu/tlp/",
+    "title": "Tomás Lozano-Pérez",
+    "headings": [
+      "Tomás Lozano-Pérez",
+      "Professor of Computer Science & Engineering, MIT",
+      "Welcome",
+      "Deparment Links",
+      "Integrated task"
+    ],
+    "signals": [
+      "publications",
+      "teaching"
+    ],
+    "images": 3,
+    "words": 270,
+    "included_in_structural_review": true
+  },
+  {
+    "id": 76,
+    "name": "Phillip Isola",
+    "url": "https://web.mit.edu/phillipi/",
+    "title": "Phillip Isola",
+    "headings": [
+      "Phillip Isola",
+      "About me",
+      "News",
+      "Research Group",
+      "Recent Courses",
+      "New papers (All papers)"
+    ],
+    "signals": [
+      "email",
+      "teaching",
+      "news",
+      "code",
+      "Scholar"
+    ],
+    "images": 10,
+    "words": 767,
+    "included_in_structural_review": true
+  },
+  {
+    "id": 77,
+    "name": "Antonio Torralba",
+    "url": "https://groups.csail.mit.edu/vision/torralbalab/",
+    "title": "Antonio Torralba",
+    "headings": [
+      "Antonio Torralba",
+      "Lab Members",
+      "Past Students and Postdocs",
+      "Book",
+      "News",
+      "Cool news",
+      "Publications",
+      "2026"
+    ],
+    "signals": [
+      "publications",
+      "CV",
+      "email",
+      "news",
+      "code",
+      "Scholar"
+    ],
+    "images": 41,
+    "words": 9155,
+    "included_in_structural_review": false
+  },
+  {
+    "id": 78,
+    "name": "William Freeman",
+    "url": "https://billf.mit.edu/",
+    "title": "William T. Freeman",
+    "headings": [
+      "Fabricating BRDFs at High Spatial Resolution Using Wave Optics",
+      "Phase-based Video Motion Processing",
+      "Shapecollage:"
+    ],
+    "signals": [
+      "publications",
+      "teaching",
+      "news",
+      "code"
+    ],
+    "images": 9,
+    "words": 295,
+    "included_in_structural_review": true
+  },
+  {
+    "id": 79,
+    "name": "Vincent Sitzmann",
+    "url": "https://www.vincentsitzmann.com/",
+    "title": "Vincent Sitzmann",
+    "headings": [
+      "Vincent Sitzmann",
+      "Hi, I'm Vincent!",
+      "Highlighted Work",
+      "MilliVid: Hierarchical Latents for Long-Range Consistency in"
+    ],
+    "signals": [
+      "publications",
+      "CV",
+      "email",
+      "teaching",
+      "code",
+      "Scholar"
+    ],
+    "images": 6,
+    "words": 661,
+    "included_in_structural_review": true
+  },
+  {
+    "id": 80,
+    "name": "Yilun Du",
+    "url": "https://yilundu.github.io/",
+    "title": "Yilun Du | Learning & Inference for Generalizable Intelligence",
+    "headings": [
+      "Yilun Du",
+      "About Yilun Du",
+      "Research",
+      "Generative Inference",
+      "Compositional Inference",
+      "World Models & Robotics"
+    ],
+    "signals": [
+      "publications",
+      "CV",
+      "email",
+      "news",
+      "code",
+      "Scholar"
+    ],
+    "images": 110,
+    "words": 6772,
+    "included_in_structural_review": true
+  },
+  {
+    "id": 81,
+    "name": "Pulkit Agrawal",
+    "url": "https://people.csail.mit.edu/pulkitag/",
+    "title": "Pulkit Agrawal",
+    "headings": [],
+    "signals": [
+      "publications",
+      "CV",
+      "email",
+      "teaching",
+      "news",
+      "code",
+      "Scholar"
+    ],
+    "images": 108,
+    "words": 5919,
+    "included_in_structural_review": true
+  },
+  {
+    "id": 82,
+    "name": "Russ Tedrake",
+    "url": "https://groups.csail.mit.edu/locomotion/russt.html",
+    "title": "Robot Locomotion Group",
+    "headings": [
+      "Russ Tedrake",
+      "Research Interests",
+      "Teaching",
+      "Software",
+      "Biography"
+    ],
+    "signals": [
+      "publications",
+      "CV",
+      "teaching",
+      "code",
+      "Scholar"
+    ],
+    "images": 3,
+    "words": 490,
+    "included_in_structural_review": true
+  },
+  {
+    "id": 83,
+    "name": "Chuang Gan",
+    "url": "https://people.csail.mit.edu/ganchuang/",
+    "title": "Chuang Gan",
+    "headings": [
+      "ThreeDWorld (TDW)"
+    ],
+    "signals": [
+      "publications",
+      "CV",
+      "email",
+      "news",
+      "code",
+      "Scholar"
+    ],
+    "images": 176,
+    "words": 4795,
+    "included_in_structural_review": true
+  },
+  {
+    "id": 84,
+    "name": "Song Han",
+    "url": "https://hanlab.mit.edu/songhan",
+    "title": "Song Han - Associate Professor, MIT EECS",
+    "headings": [
+      "Song Han",
+      "Associate Professor, MIT EECS",
+      "About",
+      "Teaching",
+      "TinyML and Efficient AI Computing",
+      "Research"
+    ],
+    "signals": [
+      "publications",
+      "email",
+      "teaching",
+      "news",
+      "code",
+      "Scholar"
+    ],
+    "images": 67,
+    "words": 6748,
+    "included_in_structural_review": true
+  },
+  {
+    "id": 85,
+    "name": "Song-Chun Zhu",
+    "url": "http://www.stat.ucla.edu/~sczhu/",
+    "title": "404 Not Found",
+    "headings": [
+      "Not Found"
+    ],
+    "signals": [],
+    "images": 0,
+    "words": 21,
+    "included_in_structural_review": false
+  },
+  {
+    "id": 86,
+    "name": "Yisong Yue",
+    "url": "https://www.yisongyue.com/",
+    "title": "Yisong Yue | Machine Learning at Caltech",
+    "headings": [
+      "Yisong Yue",
+      "About Me",
+      "Research Themes",
+      "News & Updates"
+    ],
+    "signals": [
+      "email",
+      "teaching",
+      "news",
+      "code",
+      "Scholar"
+    ],
+    "images": 9,
+    "words": 588,
+    "included_in_structural_review": true
+  },
+  {
+    "id": 87,
+    "name": "Anima Anandkumar",
+    "url": "https://anima-ai.org/",
+    "title": "Tensorial-Professor Anima on AI",
+    "headings": [
+      "Anima on AI",
+      "Stable Singularity of the Euler Equations on R^3 without forcing",
+      "Top-10"
+    ],
+    "signals": [
+      "publications",
+      "email",
+      "news",
+      "code"
+    ],
+    "images": 30,
+    "words": 6744,
+    "included_in_structural_review": true
+  },
+  {
+    "id": 88,
+    "name": "Diyi Yang",
+    "url": "https://cs.stanford.edu/~diyiy/",
+    "title": "Diyi Yang",
+    "headings": [
+      "Diyi Yang",
+      "Recent Projects",
+      "About Me",
+      "Selected Awards/Honors",
+      "Recent Service"
+    ],
+    "signals": [
+      "publications",
+      "email",
+      "teaching",
+      "code"
+    ],
+    "images": 1,
+    "words": 416,
+    "included_in_structural_review": true
+  },
+  {
+    "id": 89,
+    "name": "Danqi Chen",
+    "url": "https://www.cs.princeton.edu/~danqic/",
+    "title": "Danqi Chen",
+    "headings": [
+      "Danqi Chen"
+    ],
+    "signals": [
+      "email",
+      "teaching",
+      "code",
+      "Scholar"
+    ],
+    "images": 5,
+    "words": 153,
+    "included_in_structural_review": true
+  },
+  {
+    "id": 90,
+    "name": "Sanjeev Arora",
+    "url": "https://www.cs.princeton.edu/~arora/",
+    "title": "Sanjeev Arora",
+    "headings": [],
+    "signals": [
+      "teaching"
+    ],
+    "images": 3,
+    "words": 18,
+    "included_in_structural_review": false
+  },
+  {
+    "id": 91,
+    "name": "Szymon Rusinkiewicz",
+    "url": "https://www.cs.princeton.edu/~smr/",
+    "title": "Szymon Rusinkiewicz",
+    "headings": [],
+    "signals": [
+      "publications",
+      "code",
+      "Scholar"
+    ],
+    "images": 6,
+    "words": 4307,
+    "included_in_structural_review": true
+  },
+  {
+    "id": 92,
+    "name": "Olga Russakovsky",
+    "url": "https://www.cs.princeton.edu/~olgarus/",
+    "title": "Olga Russakovsky",
+    "headings": [
+      "Olga Russakovsky",
+      "Research",
+      "Outreach",
+      "Random Tidbits",
+      "Say Hi"
+    ],
+    "signals": [
+      "publications",
+      "CV",
+      "news",
+      "Scholar"
+    ],
+    "images": 1,
+    "words": 541,
+    "included_in_structural_review": true
+  },
+  {
+    "id": 93,
+    "name": "Karthik Narasimhan",
+    "url": "https://karthikncode.github.io/",
+    "title": "Karthik R. Narasimhan",
+    "headings": [
+      "Karthik R. Narasimhan",
+      "Selected Research Papers"
+    ],
+    "signals": [
+      "publications",
+      "email",
+      "teaching",
+      "code",
+      "Scholar"
+    ],
+    "images": 1,
+    "words": 314,
+    "included_in_structural_review": true
+  },
+  {
+    "id": 94,
+    "name": "Tri Dao",
+    "url": "https://tridao.me/",
+    "title": "Tri Dao",
+    "headings": [
+      "Tri Dao",
+      "Research Interests",
+      "Current PhD Students",
+      "Selected Honors and Awards",
+      "Advising and Investing"
+    ],
+    "signals": [
+      "publications",
+      "CV",
+      "email",
+      "teaching",
+      "code",
+      "Scholar"
+    ],
+    "images": 1,
+    "words": 607,
+    "included_in_structural_review": true
+  },
+  {
+    "id": 95,
+    "name": "Albert Gu",
+    "url": "https://hazyresearch.stanford.edu/gu/",
+    "title": "404: This page could not be found",
+    "headings": [
+      "404",
+      "This page could not be found."
+    ],
+    "signals": [],
+    "images": 0,
+    "words": 15,
+    "included_in_structural_review": false
+  },
+  {
+    "id": 96,
+    "name": "Christopher Ré",
+    "url": "https://cs.stanford.edu/people/chrismre/",
+    "title": "Homepage of Christopher Re (Chris Re)",
+    "headings": [
+      "News!",
+      "Students",
+      "Papers",
+      "Teaching and Awards",
+      "Current PhD Students",
+      "PhD and Postdoc Alumni (Degree"
+    ],
+    "signals": [
+      "email",
+      "teaching",
+      "news",
+      "code"
+    ],
+    "images": 41,
+    "words": 8350,
+    "included_in_structural_review": true
+  },
+  {
+    "id": 97,
+    "name": "Tatsunori Hashimoto",
+    "url": "https://thashim.github.io/",
+    "title": "Tatsunori Hashimoto | Home",
+    "headings": [
+      "Tatsunori Hashimoto"
+    ],
+    "signals": [
+      "publications",
+      "email",
+      "teaching",
+      "news",
+      "code",
+      "Scholar"
+    ],
+    "images": 1,
+    "words": 6484,
+    "included_in_structural_review": true
+  },
+  {
+    "id": 98,
+    "name": "Yejin Choi",
+    "url": "https://yejinc.github.io/",
+    "title": "Yejin Choi",
+    "headings": [
+      "News:",
+      "Awards:",
+      "Recognition:",
+      "Research Interests 🔥:",
+      "Recent Talks (2020 - 2026):",
+      "Recent Preprints:",
+      "Recent"
+    ],
+    "signals": [
+      "publications",
+      "CV",
+      "email",
+      "teaching",
+      "news",
+      "code",
+      "Scholar"
+    ],
+    "images": 32,
+    "words": 14274,
+    "included_in_structural_review": true
+  },
+  {
+    "id": 99,
+    "name": "Luke Zettlemoyer",
+    "url": "https://homes.cs.washington.edu/~lsz/",
+    "title": "Luke Zettlemoyer",
+    "headings": [
+      "Luke Zettlemoyer",
+      "Publications",
+      "Group",
+      "Teaching",
+      "Address"
+    ],
+    "signals": [
+      "publications",
+      "email",
+      "teaching",
+      "news",
+      "code",
+      "Scholar"
+    ],
+    "images": 1,
+    "words": 1100,
+    "included_in_structural_review": true
+  },
+  {
+    "id": 100,
+    "name": "Hannaneh Hajishirzi",
+    "url": "https://homes.cs.washington.edu/~hannaneh/",
+    "title": "Redirecting...Hannaneh Hajishirzi - University of Washington",
+    "headings": [
+      "Hannaneh Hajishirzi",
+      "About",
+      "Research",
+      "Contact"
+    ],
+    "signals": [
+      "publications",
+      "email",
+      "teaching"
+    ],
+    "images": 1,
+    "words": 382,
+    "included_in_structural_review": true
+  },
+  {
+    "id": 101,
+    "name": "Noah Smith",
+    "url": "https://nasmith.github.io/",
+    "title": "Noah A. Smith",
+    "headings": [
+      "Appointments & Education",
+      "Service",
+      "Recognition",
+      "Teaching",
+      "Personal",
+      "Academic Genealogy"
+    ],
+    "signals": [
+      "publications",
+      "teaching",
+      "news",
+      "code",
+      "Scholar"
+    ],
+    "images": 1,
+    "words": 1445,
+    "included_in_structural_review": true
+  },
+  {
+    "id": 102,
+    "name": "Ali Farhadi",
+    "url": "https://homes.cs.washington.edu/~ali/",
+    "title": "Ali Farhadi",
+    "headings": [
+      "Ali Farhadi"
+    ],
+    "signals": [
+      "publications",
+      "email",
+      "teaching",
+      "news"
+    ],
+    "images": 1,
+    "words": 79,
+    "included_in_structural_review": true
+  },
+  {
+    "id": 103,
+    "name": "Ranjay Krishna",
+    "url": "https://www.ranjaykrishna.com/",
+    "title": "Ranjay Krishna - Home",
+    "headings": [
+      "ACademic Publications",
+      "2025",
+      "Non-Archival PAPERS",
+      "RESEARCH GROUP",
+      "Selected Talks"
+    ],
+    "signals": [
+      "publications",
+      "CV",
+      "email",
+      "teaching",
+      "news",
+      "code",
+      "Scholar"
+    ],
+    "images": 175,
+    "words": 7207,
+    "included_in_structural_review": true
+  },
+  {
+    "id": 104,
+    "name": "Roozbeh Mottaghi",
+    "url": "https://roozbehm.info/",
+    "title": "Roozbeh Mottaghi's Webpage",
+    "headings": [
+      "Roozbeh Mottaghi",
+      "Featured Work",
+      "Embodied AI Simulators",
+      "World Models",
+      "Planning & Reasoning",
+      "Robot Navigation"
+    ],
+    "signals": [
+      "publications",
+      "CV",
+      "teaching",
+      "news",
+      "code",
+      "Scholar"
+    ],
+    "images": 31,
+    "words": 607,
+    "included_in_structural_review": true
+  },
+  {
+    "id": 105,
+    "name": "Shwetak Patel",
+    "url": "https://homes.cs.washington.edu/~shwetak/",
+    "title": "Home",
+    "headings": [
+      "Home"
+    ],
+    "signals": [
+      "publications",
+      "CV",
+      "teaching",
+      "news"
+    ],
+    "images": 2,
+    "words": 491,
+    "included_in_structural_review": true
+  },
+  {
+    "id": 106,
+    "name": "Sham Kakade",
+    "url": "https://shamulent.github.io/",
+    "title": "Sham M. Kakade",
+    "headings": [
+      "Sham M. Kakade",
+      "Research:",
+      "Prospective Students:",
+      "Recent Blog Posts:",
+      "Selected Service:",
+      "Other Good Stuff:"
+    ],
+    "signals": [
+      "publications",
+      "email",
+      "teaching",
+      "code"
+    ],
+    "images": 1,
+    "words": 328,
+    "included_in_structural_review": true
+  },
+  {
+    "id": 107,
+    "name": "Boaz Barak",
+    "url": "https://www.boazbarak.org/",
+    "title": "Boaz Barak",
+    "headings": [
+      "Boaz Barak",
+      "Gordon McKay Professor of Computer Science, Harvard John A. Paulson School of"
+    ],
+    "signals": [
+      "publications",
+      "CV",
+      "email",
+      "teaching",
+      "news",
+      "code"
+    ],
+    "images": 1,
+    "words": 1425,
+    "included_in_structural_review": true
+  },
+  {
+    "id": 108,
+    "name": "Finale Doshi-Velez",
+    "url": "https://finale.seas.harvard.edu/",
+    "title": "Access Denied",
+    "headings": [
+      "Access Denied"
+    ],
+    "signals": [],
+    "images": 0,
+    "words": 17,
+    "included_in_structural_review": false
+  },
+  {
+    "id": 109,
+    "name": "Hima Lakkaraju",
+    "url": "https://himalakkaraju.github.io/",
+    "title": "Hima Lakkaraju",
+    "headings": [
+      "Hima Lakkaraju",
+      "Selected Achievements & News",
+      "Upcoming and Recent Talks",
+      "Research",
+      "Advising",
+      "Teaching"
+    ],
+    "signals": [
+      "publications",
+      "CV",
+      "email",
+      "teaching",
+      "news",
+      "code"
+    ],
+    "images": 1,
+    "words": 4189,
+    "included_in_structural_review": true
+  },
+  {
+    "id": 110,
+    "name": "Milind Tambe",
+    "url": "https://teamcore.seas.harvard.edu/tambe",
+    "title": "Milind Tambe",
+    "headings": [
+      "Milind Tambe",
+      "Bio, Research and Awards",
+      "Prof. Tambe Research: Generative and Agentic AI for"
+    ],
+    "signals": [
+      "publications",
+      "CV",
+      "email",
+      "teaching",
+      "news",
+      "code"
+    ],
+    "images": 24,
+    "words": 2975,
+    "included_in_structural_review": false
+  },
+  {
+    "id": 111,
+    "name": "David Parkes",
+    "url": "https://parkes.seas.harvard.edu/",
+    "title": "Access Denied",
+    "headings": [
+      "Access Denied"
+    ],
+    "signals": [],
+    "images": 0,
+    "words": 17,
+    "included_in_structural_review": false
+  },
+  {
+    "id": 112,
+    "name": "Brendan McMahan",
+    "url": "https://research.google/people/brendan-mcmahan/",
+    "title": "",
+    "headings": [
+      "Explore our many areas of focus",
+      "Building a collaborative ecosystem",
+      "Shaping the future together"
+    ],
+    "signals": [
+      "publications",
+      "code"
+    ],
+    "images": 55,
+    "words": 513,
+    "included_in_structural_review": false
+  },
+  {
+    "id": 113,
+    "name": "Kyunghyun Cho",
+    "url": "https://kyunghyuncho.me/",
+    "title": "Kyunghyun Cho",
+    "headings": [
+      "About me",
+      "Academic Background",
+      "Menu",
+      "Recent Posts",
+      "Blog Posts",
+      "Meta"
+    ],
+    "signals": [
+      "email",
+      "teaching",
+      "news"
+    ],
+    "images": 0,
+    "words": 436,
+    "included_in_structural_review": true
+  },
+  {
+    "id": 114,
+    "name": "He He",
+    "url": "https://hhexiy.github.io/",
+    "title": "He He",
+    "headings": [
+      "He He 何河"
+    ],
+    "signals": [
+      "publications",
+      "email",
+      "teaching",
+      "code",
+      "Scholar"
+    ],
+    "images": 1,
+    "words": 300,
+    "included_in_structural_review": true
+  },
+  {
+    "id": 115,
+    "name": "Kyunghyun Sung",
+    "url": "https://kyunghyun-sung.github.io/",
+    "title": "Site not found · GitHub Pages",
+    "headings": [
+      "404"
+    ],
+    "signals": [
+      "email",
+      "code"
+    ],
+    "images": 2,
+    "words": 43,
+    "included_in_structural_review": false
+  },
+  {
+    "id": 116,
+    "name": "Kaiming He",
+    "url": "https://people.csail.mit.edu/kaiming/",
+    "title": "Kaiming He",
+    "headings": [],
+    "signals": [
+      "publications",
+      "CV",
+      "email",
+      "teaching",
+      "code",
+      "Scholar"
+    ],
+    "images": 2,
+    "words": 1490,
+    "included_in_structural_review": true
+  },
+  {
+    "id": 117,
+    "name": "Saining Xie",
+    "url": "https://www.sainingxie.com/",
+    "title": "Saining Xie",
+    "headings": [
+      "About Me",
+      "Research Group",
+      "Selected Publications"
+    ],
+    "signals": [
+      "publications",
+      "CV",
+      "email",
+      "code",
+      "Scholar"
+    ],
+    "images": 45,
+    "words": 1699,
+    "included_in_structural_review": true
+  },
+  {
+    "id": 118,
+    "name": "Ross Girshick",
+    "url": "https://www.rossgirshick.info/",
+    "title": "rbg's home page",
+    "headings": [
+      "Research",
+      "About me / bio",
+      "Publications and tech reports on Google scholar"
+    ],
+    "signals": [
+      "publications",
+      "email",
+      "Scholar"
+    ],
+    "images": 1,
+    "words": 295,
+    "included_in_structural_review": true
+  },
+  {
+    "id": 119,
+    "name": "Piotr Dollár",
+    "url": "https://pdollar.github.io/",
+    "title": "Piotr Dollar",
+    "headings": [
+      "brief bio"
+    ],
+    "signals": [
+      "publications",
+      "CV",
+      "code",
+      "Scholar"
+    ],
+    "images": 1,
+    "words": 98,
+    "included_in_structural_review": true
+  },
+  {
+    "id": 120,
+    "name": "Xinlei Chen",
+    "url": "https://xinleic.xyz/",
+    "title": "Xinlei Chen",
+    "headings": [
+      "Meta Info",
+      "Publications with Extra Materials"
+    ],
+    "signals": [
+      "publications",
+      "email",
+      "code",
+      "Scholar"
+    ],
+    "images": 55,
+    "words": 1688,
+    "included_in_structural_review": true
+  },
+  {
+    "id": 121,
+    "name": "Xiaolong Wang",
+    "url": "https://xiaolonw.github.io/",
+    "title": "Xiaolong Wang",
+    "headings": [
+      "Xiaolong Wang",
+      "Research",
+      "News",
+      "Selected Awards",
+      "Lab Awards",
+      "Courses Taught at UCSD",
+      "Service"
+    ],
+    "signals": [
+      "CV",
+      "teaching",
+      "news",
+      "code",
+      "Scholar"
+    ],
+    "images": 1,
+    "words": 1373,
+    "included_in_structural_review": true
+  },
+  {
+    "id": 122,
+    "name": "Xiaowei Zhou",
+    "url": "https://www.cad.zju.edu.cn/home/xzhou/",
+    "title": "Cargo",
+    "headings": [],
+    "signals": [],
+    "images": 1,
+    "words": 59,
+    "included_in_structural_review": false
+  },
+  {
+    "id": 123,
+    "name": "Hao Su",
+    "url": "https://www.haosu.ai/",
+    "title": "",
+    "headings": [],
+    "signals": [],
+    "images": 0,
+    "words": 0,
+    "included_in_structural_review": false
+  },
+  {
+    "id": 125,
+    "name": "Kevin Murphy",
+    "url": "https://www.cs.ubc.ca/~murphyk/",
+    "title": "Redirecting...",
+    "headings": [],
+    "signals": [
+      "code"
+    ],
+    "images": 0,
+    "words": 12,
+    "included_in_structural_review": false
+  },
+  {
+    "id": 126,
+    "name": "Kevin Swersky",
+    "url": "https://www.cs.toronto.edu/~kswersky/",
+    "title": "",
+    "headings": [],
+    "signals": [],
+    "images": 0,
+    "words": 0,
+    "included_in_structural_review": false
+  },
+  {
+    "id": 127,
+    "name": "Dustin Tran",
+    "url": "https://dustintran.com/",
+    "title": "Dustin Tran",
+    "headings": [
+      "Dustin Tran",
+      "Publications",
+      "2025",
+      "2024",
+      "2023",
+      "2022",
+      "2021",
+      "2020",
+      "2019",
+      "2018",
+      "2017",
+      "2016",
+      "2015"
+    ],
+    "signals": [
+      "publications",
+      "CV",
+      "email",
+      "news",
+      "code",
+      "Scholar"
+    ],
+    "images": 1,
+    "words": 2077,
+    "included_in_structural_review": true
+  },
+  {
+    "id": 128,
+    "name": "Jasper Snoek",
+    "url": "https://www.cs.toronto.edu/~jasper/",
+    "title": "404 Not Found",
+    "headings": [
+      "Not Found"
+    ],
+    "signals": [],
+    "images": 0,
+    "words": 21,
+    "included_in_structural_review": false
+  },
+  {
+    "id": 129,
+    "name": "Ryan Adams",
+    "url": "https://www.cs.princeton.edu/~rpa/",
+    "title": "Ryan P. Adams, Princeton University",
+    "headings": [
+      "Ryan P. Adams",
+      "Professor of Computer Science",
+      "Teaching",
+      "Current Graduate Students and Postdocs",
+      "Former"
+    ],
+    "signals": [
+      "publications",
+      "CV",
+      "email",
+      "teaching",
+      "code"
+    ],
+    "images": 1,
+    "words": 470,
+    "included_in_structural_review": true
+  },
+  {
+    "id": 130,
+    "name": "David Blei",
+    "url": "https://www.cs.columbia.edu/~blei/",
+    "title": "David M. Blei",
+    "headings": [
+      "David M. Blei",
+      "About me",
+      "Machine Learning at Columbia",
+      "Teaching",
+      "Office hours"
+    ],
+    "signals": [
+      "publications",
+      "CV",
+      "email",
+      "teaching"
+    ],
+    "images": 1,
+    "words": 162,
+    "included_in_structural_review": true
+  },
+  {
+    "id": 131,
+    "name": "John Paisley",
+    "url": "https://www.columbia.edu/~jwp2128/",
+    "title": "Just a moment...",
+    "headings": [],
+    "signals": [],
+    "images": 0,
+    "words": 9,
+    "included_in_structural_review": false
+  },
+  {
+    "id": 132,
+    "name": "Andrew Wilson",
+    "url": "https://cims.nyu.edu/~andrewgw/",
+    "title": "Andrew Gordon Wilson",
+    "headings": [
+      "Andrew Gordon Wilson"
+    ],
+    "signals": [
+      "CV",
+      "email",
+      "teaching",
+      "code",
+      "Scholar"
+    ],
+    "images": 1,
+    "words": 3328,
+    "included_in_structural_review": true
+  },
+  {
+    "id": 133,
+    "name": "Andrew Ng",
+    "url": "https://www.andrewng.org/",
+    "title": "Andrew Ng - Official Website",
+    "headings": [
+      "Andrew Ng",
+      "Companies",
+      "AI Andrew"
+    ],
+    "signals": [
+      "email",
+      "teaching"
+    ],
+    "images": 6,
+    "words": 451,
+    "included_in_structural_review": true
+  },
+  {
+    "id": 134,
+    "name": "Andrew Zisserman",
+    "url": "https://www.robots.ox.ac.uk/~az/",
+    "title": "Andrew Zisserman, University of Oxford",
+    "headings": [
+      "Andrew Zisserman's Home Page"
+    ],
+    "signals": [
+      "teaching",
+      "news",
+      "Scholar"
+    ],
+    "images": 0,
+    "words": 51,
+    "included_in_structural_review": true
+  },
+  {
+    "id": 135,
+    "name": "Andrea Vedaldi",
+    "url": "https://www.robots.ox.ac.uk/~vedaldi/",
+    "title": "Home | Professor Andrea Vedaldi",
+    "headings": [
+      "News All news…",
+      "Research highlights More projects…"
+    ],
+    "signals": [
+      "publications",
+      "email",
+      "teaching",
+      "news",
+      "code",
+      "Scholar"
+    ],
+    "images": 6,
+    "words": 248,
+    "included_in_structural_review": true
+  },
+  {
+    "id": 137,
+    "name": "Deva Ramanan",
+    "url": "https://www.cs.cmu.edu/~deva/",
+    "title": "Deva Ramanan - CMU - Computer Vision",
+    "headings": [
+      "Recent publications"
+    ],
+    "signals": [
+      "publications",
+      "email",
+      "teaching",
+      "code",
+      "Scholar"
+    ],
+    "images": 1,
+    "words": 1963,
+    "included_in_structural_review": true
+  },
+  {
+    "id": 138,
+    "name": "Derek Hoiem",
+    "url": "https://dhoiem.cs.illinois.edu/",
+    "title": "Derek Hoiem's Homepage",
+    "headings": [],
+    "signals": [],
+    "images": 0,
+    "words": 3,
+    "included_in_structural_review": false
+  },
+  {
+    "id": 139,
+    "name": "Kristen Grauman",
+    "url": "https://www.cs.utexas.edu/~grauman/",
+    "title": "Kristen Grauman",
+    "headings": [],
+    "signals": [
+      "publications",
+      "CV",
+      "email",
+      "teaching",
+      "news",
+      "code"
+    ],
+    "images": 1,
+    "words": 2057,
+    "included_in_structural_review": true
+  },
+  {
+    "id": 140,
+    "name": "Peter Stone",
+    "url": "https://www.cs.utexas.edu/~pstone/",
+    "title": "Peter Stone :: Professor at the University of Texas at",
+    "headings": [
+      "News"
+    ],
+    "signals": [
+      "publications",
+      "CV",
+      "email",
+      "teaching",
+      "news"
+    ],
+    "images": 4,
+    "words": 299,
+    "included_in_structural_review": true
+  },
+  {
+    "id": 141,
+    "name": "François Fleuret",
+    "url": "https://fleuret.org/francois/",
+    "title": "François Fleuret's Homepage",
+    "headings": [
+      "François Fleuret"
+    ],
+    "signals": [
+      "publications",
+      "email"
+    ],
+    "images": 0,
+    "words": 71,
+    "included_in_structural_review": true
+  },
+  {
+    "id": 142,
+    "name": "Francis Bach",
+    "url": "https://www.di.ens.fr/~fbach/",
+    "title": "Francis Bach - INRIA - ENS - PSL",
+    "headings": [],
+    "signals": [
+      "publications",
+      "CV",
+      "teaching",
+      "news",
+      "code",
+      "Scholar"
+    ],
+    "images": 6,
+    "words": 12268,
+    "included_in_structural_review": true
+  },
+  {
+    "id": 143,
+    "name": "Jean Ponce",
+    "url": "https://www.di.ens.fr/~ponce/",
+    "title": "Jean Ponce",
+    "headings": [
+      "Jean Ponce",
+      "Ecole normale sup�rieure-PSL and New York University Prairie 3IA Institute Enhance Lab"
+    ],
+    "signals": [
+      "publications",
+      "CV",
+      "news",
+      "Scholar"
+    ],
+    "images": 4,
+    "words": 296,
+    "included_in_structural_review": true
+  },
+  {
+    "id": 144,
+    "name": "Cordelia Schmid",
+    "url": "https://lear.inrialpes.fr/people/schmid/",
+    "title": "THOTH",
+    "headings": [
+      "Cordelia Schmid"
+    ],
+    "signals": [
+      "publications",
+      "CV"
+    ],
+    "images": 1,
+    "words": 320,
+    "included_in_structural_review": true
+  },
+  {
+    "id": 145,
+    "name": "Ivan Laptev",
+    "url": "https://www.di.ens.fr/~laptev/",
+    "title": "Ivan Laptev",
+    "headings": [],
+    "signals": [
+      "publications",
+      "CV",
+      "email",
+      "news",
+      "code",
+      "Scholar"
+    ],
+    "images": 76,
+    "words": 4101,
+    "included_in_structural_review": true
+  },
+  {
+    "id": 146,
+    "name": "Josef Sivic",
+    "url": "https://www.di.ens.fr/~josef/",
+    "title": "",
+    "headings": [
+      "News",
+      "Publications"
+    ],
+    "signals": [
+      "publications",
+      "CV",
+      "teaching",
+      "news",
+      "code",
+      "Scholar"
+    ],
+    "images": 71,
+    "words": 2779,
+    "included_in_structural_review": true
+  },
+  {
+    "id": 148,
+    "name": "Yang Song",
+    "url": "https://yang-song.net/",
+    "title": "Yang Song",
+    "headings": [
+      "Yang Song (宋飏)",
+      "selected publications [full list]"
+    ],
+    "signals": [
+      "publications",
+      "email",
+      "news",
+      "code",
+      "Scholar"
+    ],
+    "images": 1,
+    "words": 2958,
+    "included_in_structural_review": true
+  },
+  {
+    "id": 149,
+    "name": "Jonathan Ho",
+    "url": "https://jonathanho.github.io/",
+    "title": "Site not found · GitHub Pages",
+    "headings": [
+      "404"
+    ],
+    "signals": [
+      "email",
+      "code"
+    ],
+    "images": 2,
+    "words": 43,
+    "included_in_structural_review": false
+  },
+  {
+    "id": 150,
+    "name": "Diederik Kingma",
+    "url": "https://dpkingma.com/",
+    "title": "Diederik P. (Durk) Kingma",
+    "headings": [
+      "Durk Kingma",
+      "Publications",
+      "Brief Bio",
+      "Variational Inference and Deep Learning: A New Synthesis",
+      "Links"
+    ],
+    "signals": [
+      "publications",
+      "email",
+      "Scholar"
+    ],
+    "images": 1,
+    "words": 432,
+    "included_in_structural_review": true
+  }
+]
