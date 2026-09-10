@@ -23,7 +23,7 @@ jobs:
       - name: Prepare the static site
         run: |
           mkdir -p _site/citations
-          cp index.html styles.css background.js favicon.svg CNAME .nojekyll IMG_1228.jpeg _site/
+          cp index.html styles.css background.js favicon.svg CNAME .nojekyll IMG_1228.jpeg robots.txt sitemap.xml _site/
           cp -R citations/. _site/citations/
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v3

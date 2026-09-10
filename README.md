@@ -16,6 +16,8 @@ Visit http://localhost:8000. Over HTTP, the BibTeX links download individual cit
 
 The included GitHub Pages workflow deploys only the site assets: `index.html`, `styles.css`, `background.js`, `favicon.svg`, `IMG_1228.jpeg`, `CNAME`, `.nojekyll`, and `citations/`. `research/` and `checks/` remain repository documentation and are not published. The site is configured for `https://aditya-s.me/`.
 
+`robots.txt` and `sitemap.xml` allow search engines to discover the canonical home page. Add the site to Google Search Console and submit `https://aditya-s.me/sitemap.xml` after HTTPS is available.
+
 After creating the GitHub repository, set Pages to use **GitHub Actions** and configure the domain’s DNS records at its registrar. Update the footer date when editing content. A social preview image can be added when an appropriate asset is available.
 
 ## Editing
